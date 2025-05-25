@@ -31,35 +31,35 @@ In this project, we use an LLM locally to ensure fast, offline access and no dep
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
-
+```
 git clone "your_repo_link"
 cd your-repo
-
+```
 ---
 
 ### 2. Create and activate a virtual environment
-
+```
 conda create -n bloggenv python=3.9
 conda activate bloggenv
-
+```
 ---
 
 ### 3. Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ### 4. Run the app
-
+```
 streamlit run app.py
-
+```
 ---
 
 ### Acknowledgments
 
 Special thanks to Krish Naik, whose tutorials and community-driven education made learning and building this LLM project possible.
 
-```
 
-```
+
+
