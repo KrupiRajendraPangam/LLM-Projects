@@ -28,16 +28,6 @@ In this project, we use an LLM locally to ensure fast, offline access and no dep
 
 ---
 
-## 🧪 Tech Stack
-
-- Python 🐍
-- [Streamlit](https://streamlit.io/)
-- [LangChain](https://www.langchain.com/)
-- [Transformers (Hugging Face)](https://huggingface.co/docs/transformers/index)
-- [Ollama (Optional for LLaMA)](https://ollama.com/)
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
