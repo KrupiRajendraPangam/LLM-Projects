@@ -4,7 +4,7 @@ This is a simple web application built with **Streamlit** that generates blog co
 
 ---
 
-## 📌 What is an LLM?
+## What is an LLM?
 
 A **Large Language Model (LLM)** is an artificial intelligence model trained on vast amounts of textual data to understand and generate human-like text. LLMs like GPT, LLaMA, and others can perform tasks such as:
 
@@ -17,7 +17,7 @@ In this project, we use an LLM locally to ensure fast, offline access and no dep
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generate blog content by entering a topic
 - Choose word count and target audience
@@ -26,7 +26,7 @@ In this project, we use an LLM locally to ensure fast, offline access and no dep
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 ```
