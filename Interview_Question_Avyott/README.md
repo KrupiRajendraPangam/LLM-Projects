@@ -5,21 +5,20 @@ This project provides an intelligent web-based interface to extract tables from 
 ---
 
 # Llama 2
-
-Llama 2 is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. This is the repository for the 7B fine-tuned model, optimized for dialogue use cases and converted for the Hugging Face Transformers format. Links to other models can be found in the index at the bottom.
+The Llama 2 release introduces a family of pretrained and fine-tuned LLMs, ranging in scale from 7B to 70B parameters (7B, 13B, 70B). The pretrained models come with significant improvements over the Llama 1 models, including being trained on 40% more tokens, having a much longer context length (4k tokens), and using grouped-query attention for fast inference of the 70B model!
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📸 Upload an image with a table (PNG/JPG/JPEG)
-- 🔍 Extract table text using **Tesseract OCR**
-- 📊 Parse and display the table as a **DataFrame**
-- 📁 Download the table as a **PDF**
-- 🤖 Ask natural language questions about the extracted data using **LLaMA 2**
-- 🧮 Smart reasoning and explanations (limited math capability)
+- Upload an image with a table (PNG/JPG/JPEG)
+- Extract table text using **Tesseract OCR**
+- Parse and display the table as a **DataFrame**
+- Download the table as a **PDF**
+- Ask natural language questions about the extracted data using **LLaMA 2**
+- Smart reasoning and explanations (limited math capability)
 
-## 🧪 Example Use Case
+## Example Use Case
 
 Upload the image
 
